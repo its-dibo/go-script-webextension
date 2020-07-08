@@ -1,0 +1,8 @@
+/dist/
+node_modules/
+*.log
+/stats.json
+/firefox/
+/chrome/
+/releases/
+/tmp/
